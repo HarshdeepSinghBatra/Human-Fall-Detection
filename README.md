@@ -39,6 +39,9 @@ Follow these steps to set up and run the Human Fall Detection System on your loc
 ```bash
   streamlit run liveFeed.py
 ```
+4. **Interact with the UI:**
+
+Open your browser and navigate to http://localhost:8501 to interact with the Streamlit user interface.
     
 ##  Usage
 
